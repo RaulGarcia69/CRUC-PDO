@@ -1,4 +1,6 @@
 # PDO
+crear config.php con:
+
 define("SERVIDOR","localhost");
 define("USUARIO","root");
 define("PASSWORD","contraseña");
